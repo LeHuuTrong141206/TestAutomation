@@ -13,6 +13,7 @@
         <module name="Lab5" />
         <module name="Lab6" />
         <module name="Lab5_1" />
+        <module name="Lab8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -127,7 +127,7 @@ public class TestDN {
         driver.get("http://localhost:8080/cinevo-web/cinevo/user?tab=login");
 
         driver.findElement(By.xpath("/html/body/div/div/div/form/div[1]/div/input")).sendKeys("lehuutrong@gmail.com");
-        driver.findElement(By.xpath("/html/body/div/div/div/form/div[2]/div/input")).sendKeys("113");
+        driver.findElement(By.xpath("/html/body/div/div/div/form/div[2]/div/input")).sendKeys("123456");
         driver.findElement(By.xpath("/html/body/div/div/div/form/button")).click();
 
         Thread.sleep(2000);

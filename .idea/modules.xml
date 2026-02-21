@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Demo.iml" filepath="$PROJECT_DIR$/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Khong gian.iml" filepath="$PROJECT_DIR$/.idea/Khong gian.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab2_testMaven/Lab2_testMaven.iml" filepath="$PROJECT_DIR$/Lab2_testMaven/Lab2_testMaven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab3.iml" filepath="$PROJECT_DIR$/Lab3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab4.iml" filepath="$PROJECT_DIR$/Lab4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab5.iml" filepath="$PROJECT_DIR$/Lab5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lab5_1.iml" filepath="$PROJECT_DIR$/Lab5_1.iml" />
     </modules>
   </component>
 </project>

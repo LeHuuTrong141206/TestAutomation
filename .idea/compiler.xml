@@ -11,6 +11,7 @@
         <module name="Demo" />
         <module name="Lab4" />
         <module name="Lab5" />
+        <module name="Test_Assignment_KTNC" />
         <module name="Lab6" />
         <module name="Lab5_1" />
         <module name="Lab8" />
@@ -19,7 +20,6 @@
     <bytecodeTargetLevel>
       <module name="lab5_testSeledium" target="1.8" />
       <module name="Lab5_testSelenium" target="1.8" />
-      <module name="Test_Assignment_KTNC" target="1.8" />
       <module name="untitled" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lab3/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2_testMaven/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab4/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab5_testSeledium/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5_testSelenium/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab5_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab6/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab8/pom.xml" />
+        <option value="$PROJECT_DIR$/Test_Assignment_KTNC/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
